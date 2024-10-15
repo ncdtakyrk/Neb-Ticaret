@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NebTicaretAPI.API.props" />
+</Project>
